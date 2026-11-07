@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: goruntu_isleme
-    runtime: python
-    envVars:
-      - key: PYTHON_VERSION
-        value: 3.11
